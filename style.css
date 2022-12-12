@@ -11,11 +11,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #7D2AE8;
+  background: #f1d629;
 }
 ::selection{
   color: #fff;
-  background: #7D2AE8;
+  background: #f1d629;
 }
 form{
   width: 450px;
@@ -29,7 +29,7 @@ form header{
   font-size: 28px;
   font-weight: 500;
   margin-top: 10px;
-  color: #7D2AE8;
+  color: #f1d629;
 }
 form .nic-input{
   margin: 30px 0;
@@ -64,7 +64,7 @@ form .nic-input{
   bottom: 0;
   height: 2px;
   width: 100%;
-  background: #7D2AE8;
+  background: #f1d629;
   transform: scale(0);
   transition: transform 0.3s ease;
 }
@@ -108,7 +108,7 @@ form .preview-area{
   font-weight: 500;
   margin: 30px 0 20px 0;
   border-radius: 5px;
-  background: #7D2AE8;
+  background: #f1d629;
   transition: background 0.3s ease;
 }
 .span .title{
